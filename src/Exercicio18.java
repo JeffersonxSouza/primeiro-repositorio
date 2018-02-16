@@ -3,7 +3,7 @@
 	Jefferson Souza de Barros  RGM: 17315158*/
 public class Exercicio18 {
 	
-	
+	sssss
 	public void imprimeDados() {
 		
 		int v[] = {1,2,3,4,5,6,7,8,9,10};
